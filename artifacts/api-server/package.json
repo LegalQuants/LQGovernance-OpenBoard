@@ -55,6 +55,6 @@
     "socket.io-client": "^4.8.3",
     "supertest": "^7.1.5",
     "thread-stream": "3.1.0",
-    "vitest": "^3.2.5"
+    "vitest": "^4.1.11"
   }
 }
